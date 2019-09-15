@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d365db29-d48c-45d5-957f-b43114397c3a" name="Default Changelist" comment="" />
+    <list default="true" id="d365db29-d48c-45d5-957f-b43114397c3a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MyTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyJavaTest/MyTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyJavaTest/TestWhileQiantao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyTest1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestWhileQiantao.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +23,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test01" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1QrTJjS3gthGEqzhLYWeDO2F9VO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
@@ -32,16 +51,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.TestWhileQiantao">
-    <configuration name="MyTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyTest1" />
+  <component name="RunManager" selected="Application.MyTest02">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="MyJavaTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestWhileQiantao" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestWhileQiantao" />
+    <configuration name="MyTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyTest01" />
+      <module name="MyJavaTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyTest02" />
+      <module name="MyJavaTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyTest1" />
       <module name="MyJavaTest" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -56,7 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.TestWhileQiantao" />
+        <item itemvalue="Application.MyTest02" />
+        <item itemvalue="Application.MyTest01" />
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.MyTest1" />
+        <item itemvalue="Application.TestWhileQiantao" />
       </list>
     </recent_temporary>
   </component>
@@ -82,5 +119,16 @@
       <updated>1568527645389</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
